@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Dhyey Shah 👋
 
-<!--
-**DhyeyShah23/DhyeyShah23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a first-year Computer Science and Engineering (CSE) student at **SRM University, Kattankulathur**, pursuing a specialization in **Artificial Intelligence and Machine Learning** (AIML). I'll be graduating in 2028. Currently, I'm focused on building a strong foundation in programming and AI.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- Learning **C** and **Python**
+- Diving into **Machine Learning (ML)**
+- Exploring **AI models** to understand their inner workings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I know
+- The basics of **HTML, CSS, JavaScript**
+- Version control with **Git and GitHub**
+- Working knowledge of **Linux (Ubuntu)** after setting up a dual-boot system
+
+### 🌱 What I'm learning
+- Continuing to expand my understanding of **C** and **Python**
+- Exploring the field of **Machine Learning** and **Artificial Intelligence**
+
+### 📫 How to reach me
+- Feel free to connect with me via [GitHub](https://github.com/DhyeyShah23) or [LinkedIn](https://www.linkedin.com/in/dhyey-shah-607273323/)
+
